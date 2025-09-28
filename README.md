@@ -3,7 +3,6 @@
 Projeto desenvolvido na disciplina **Desenvolvimento para Dispositivos Móveis 2**,  
 com o professor **Tiago Silva**.  
 
----
 
 ## 🎮 **Sobre o projeto**
 
@@ -12,7 +11,6 @@ com o professor **Tiago Silva**.
 - O app detecta vitórias 🏆 ou empate (**“Deu velha 👵”**).  
 - Interface estilizada em **tons de rosa e roxo**.  
 
----
 
 ## 🛠️ **Tecnologias**
 
