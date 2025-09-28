@@ -8,9 +8,8 @@ com o professor **Tiago Silva**.
 
 - Implementação do clássico **Jogo da Velha (Tic Tac Toe)**.  
 - Jogadores alternam ❌ e ⭕.  
-- O app detecta vitórias 🏆 ou empate (**“Deu velha 👵”**).  
-- Interface estilizada em **tons de rosa e roxo**.  
-
+- O app detecta vitórias 🏆 ou empate (**“Deu velha 👵”**).
+  
 
 ## 🛠️ **Tecnologias**
 
