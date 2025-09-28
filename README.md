@@ -14,5 +14,4 @@ com o professor **Tiago Silva**.
 ## 🛠️ **Tecnologias**
 
 - .NET MAUI  
-- C#  
-- XAML  
+- C# 
